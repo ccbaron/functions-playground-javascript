@@ -13,3 +13,16 @@ function rollDice() {
  */
 
 // Tu código a partir de aquí
+
+//let dado1 = rollDice();
+//let dado2 = rollDice();
+//let resultado = dado1 + dado2;
+//console.log(resultado); //se le asigna rollDice a dado1 y dado2, y se suman para obtener el resultado. 
+
+let dice1 = rollDice();
+let dice2 = rollDice();
+console.log(`valor del dado 1: ${dice1}`);
+console.log(`valor del dado 2: ${dice2}`);
+console.log(`suma de los dos dados: ${dice1 + dice2}`);
+
+//se le asigna rollDice a dice1 y dice2, y se suman para obtener el resultado.
