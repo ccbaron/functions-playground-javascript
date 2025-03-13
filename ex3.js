@@ -10,6 +10,9 @@ function escribeVeces(n, texto) {
   }
 }
 
+escribeVeces(10, 'Hola!');
+// En este caso, la función escribe 10 veces la palabra 'Hola!'. Si ejecutas el código, deberías ver por consola 10 veces la palabra 'Hola!'.
+
 /**
  * Invoca esta función de manera adecuada para que escribe la palabra 'Hola!' 10 veces. ESCRIBE solo a partir de aquí
  */
